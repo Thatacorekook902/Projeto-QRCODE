@@ -2,64 +2,65 @@
 <div align="center">
   <p align="center">
     <img 
-      alt="Projeto QR Code" 
+      alt="DIO Education" 
       src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/logo.webp" 
       width="100px" 
     />
-    <h1>Gerador de QR Code da Thainá</h1>
+    <h1>Gerador de QR Code para E-commerce</h1>
+    <h3>Projeto desenvolvido por Thainá 💖</h3>
   </p>
 </div>
 <!--END_SECTION:header-->
 
 <p align="center">
-  <img src="https://img.shields.io/static/v1?label=Projeto&message=NodeJS&color=ff69b4&labelColor=202024" alt="Projeto" />
-  <a href="NIVEL">
-    <img src="https://img.shields.io/static/v1?label=Nível&message=Iniciante&color=ff69b4&labelColor=202024" alt="Nivel">
-  </a>
+  <img src="https://img.shields.io/static/v1?label=DIO&message=Education&color=E94D5F&labelColor=202024" alt="DIO Project" />
+  
+  <img src="https://img.shields.io/static/v1?label=Nivel&message=Basico&color=E94D5F&labelColor=202024" alt="Nivel">
+
+  <img src="https://img.shields.io/static/v1?label=NodeJS&message=Learning&color=339933&labelColor=202024" alt="NodeJS">
 </p>
 
 <table align="center">
 <thead>
   <tr>
     <td>
-        <p align="center">Desenvolvedora</p>
-        <img 
-          src="https://cdn-icons-png.flaticon.com/512/4140/4140048.png" 
-          width="115"
-          alt="Thainá"
-        >
+        <p align="center">Student Developer</p>
+
+<img 
+src="https://cdn-icons-png.flaticon.com/512/4140/4140048.png" 
+width="115px" 
+alt="Princesa Valentina"
+/>
+
     </td>
-    <td colspan="3">
-      <p>
-      💖 Projeto desenvolvido por Thainá
-      <br/>
-      🌟 Estudando programação com NodeJS e JavaScript
-      <br/>
-      👩‍💻 Aprendendo a criar projetos modernos e organizados
-      </p>
 
-<a href="#">
-<img 
-align="center" 
-alt="GitHub" 
-src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
+<td colspan="3">
 
-<a href="#">
-<img 
-align="center" 
-alt="NodeJS" 
-src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-</a>
+## 👩‍💻 Sobre Mim
 
-<a href="#">
+🎓 Estudando programação na DIO (Digital Innovation One)  
+📚 Aprendendo NodeJS, JavaScript e desenvolvimento backend  
+🌟 Criando projetos práticos para evoluir na programação  
+💖 Apaixonada por tecnologia e desenvolvimento web  
+
+<br/>
+
 <img 
-align="center" 
 alt="JavaScript" 
-src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-</a>
+src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
+/>
 
-    </td>
+<img 
+alt="NodeJS" 
+src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"
+/>
+
+<img 
+alt="GitHub" 
+src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+/>
+
+</td>
   </tr>
 </thead>
 </table>
@@ -69,43 +70,50 @@ src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=jav
 
 # 💻 Sobre o Projeto
 
-Este projeto foi criado para gerar QR Codes utilizando NodeJS.  
-A ideia é criar uma ferramenta simples, organizada e escalável para futuros projetos de e-commerce e tecnologia.
+Este projeto foi desenvolvido durante meus estudos na DIO.  
+O objetivo é criar um gerador de QR Code utilizando NodeJS, aprendendo na prática como funciona a organização de projetos backend modernos.
 
-# 📚 Pré-requisitos
+O sistema foi pensado para ser escalável e receber novas funcionalidades futuramente.
 
-Antes de iniciar o projeto, é importante ter conhecimentos básicos em:
+---
+
+# 📚 Conhecimentos Utilizados
 
 - Lógica de programação
-- JavaScript
-- NodeJS
+- JavaScript Básico
+- NodeJS Básico
 - NPM
-- Pacotes e dependências
+- Dependências e Packages
 - Variáveis de ambiente (.env)
 
-# 🛠️ Tecnologias Utilizadas
+---
 
-- JavaScript
-- NodeJS
-- NPM
-- QRCode Generator
+# 🛠️ O que estou aprendendo
 
-# 🎯 Objetivos do Projeto
+✅ Como gerar QR Codes com NodeJS  
+✅ Organização de projetos por camadas  
+✅ Trabalhar com múltiplas dependências  
+✅ Estruturação de aplicações backend  
+✅ Boas práticas em projetos JavaScript  
 
-Com este projeto, será possível:
+---
 
-- Gerar QR Codes automaticamente
-- Aprender NodeJS na prática
-- Organizar projetos por camadas
-- Trabalhar com dependências externas
+# 🚀 Objetivos
+
+Após concluir este projeto, serei capaz de:
+
+- Criar aplicações NodeJS
+- Trabalhar com bibliotecas externas
+- Desenvolver projetos mais organizados
 - Evoluir para projetos maiores futuramente
 
-# 🚀 Futuras Melhorias
+---
 
-- Interface gráfica
-- Integração com banco de dados
-- Personalização de QR Codes
-- Sistema completo para e-commerce
+# 💖 Minha Jornada
+
+Estou estudando programação através da plataforma DIO (Digital Innovation One) e desenvolvendo projetos para melhorar minhas habilidades como futura desenvolvedora.
+
+---
 
 <!--START_SECTION:footer-->
 
@@ -113,13 +121,15 @@ Com este projeto, será possível:
 <br />
 
 <p align="center">
-  <img 
-    align="center" 
-    src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/footer.png" 
-    alt="banner"
-  />
+  <a href="https://www.dio.me/" target="_blank">
+    <img 
+      align="center" 
+      src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/footer.png" 
+      alt="banner"
+    />
+  </a>
 </p>
 
 <p align="center">
-💖 Feito com dedicação por Thainá
+💖 Feito por Thainá | Estudante da DIO
 </p>
